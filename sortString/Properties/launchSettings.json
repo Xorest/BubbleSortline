@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sortString": {
+      "commandName": "Project",
+      "commandLineArgs": "\"test_5.txt\""
+    }
+  }
+}

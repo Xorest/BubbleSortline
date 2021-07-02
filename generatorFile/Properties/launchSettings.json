@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "generatorFile": {
+      "commandName": "Project",
+      "commandLineArgs": "10000 10"
+    }
+  }
+}
